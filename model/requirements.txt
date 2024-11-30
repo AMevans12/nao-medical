@@ -1,0 +1,6 @@
+Flask
+ollama
+whisper
+httpcore
+pydub
+deep-translator
